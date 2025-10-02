@@ -1,0 +1,4 @@
+git add .
+git commit -m "feat(homepage): add hero, services, about, testimonials, CTA, and footer sections
+"
+git push
